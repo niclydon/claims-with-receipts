@@ -49,6 +49,7 @@ This repository publishes process and results only. It contains no information a
 4. INTERVENTION.md: the persona amendment under test.
 5. LOG.md: dated entries across the window.
 6. RESULTS.md: the after picture, published 2026-11-03.
+7. docs/narrative/: one narrative per completed arc, starting with the founding arc (2026-10-20-origins.md); CHANGES.md records what landed and when.
 
 ## License
 
