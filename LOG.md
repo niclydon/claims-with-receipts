@@ -16,3 +16,11 @@ Dated entries. Interim entries record whether the rule visibly fired that day (a
 - Rule visibly fired (sentences stamped or labelled that would previously have been bare): count and one-line categories.
 - Contradicted-by-record decisions identified: count, cause class if any.
 - Notes (friction, clutter, edge cases for the review):
+
+## 2026-10-28 — Protocol deviation recorded
+
+- The daily entries for 2026-10-21 through 2026-10-27 were not kept. This is recorded as a deviation from the log-keeping plan.
+- The lapse is disclosed, not repaired after the fact: interim counts for those days were not reconstructed, because reconstructed counts would be invented data.
+- The experiment's preregistered primary measure is unaffected in design: the endpoint sample (report turns from 2026-10-31 to 2026-11-03, scored under RUBRIC.md, with the contradicted-by-record count taken across the full window from the working record) is the result. This log was interim observation only.
+- The deviation and its reason will be stated in RESULTS.md at the review.
+- Daily entries resume from today.
