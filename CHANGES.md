@@ -7,6 +7,7 @@ A dated record of what landed in this repository, newest first. Narrative accoun
 - Review held (one day after the scheduled date, recorded as a deviation, not backdated). RESULTS.md completed: end-of-window sample scored 4 stamped, 1 labelled, 15 bare of 20; compliance 25 percent against the 90 percent target and the 20 percent baseline; contradicted-by-record decisions 0 counted, with one borderline case and one out-of-scope event reported in full. Verdict under the preregistered decision rules: the intervention failed as designed; the declared setting lapses; the standard is retained and the mechanism is judged the failure.
 - LOG.md: review entry appended, recording the second daily-entry lapse (2026-10-29 through 2026-11-03) and the late review. No missed counts were reconstructed.
 - Narrative: docs/narrative/2026-11-04-review.md records the review arc.
+- Renewal: the user renewed the experiment the same day with a changed mechanism. PROTOCOL.md Amendment 1 records the changes (externally triggered daily log, completion-keyed receipt slot, strained-claim procedure) and window 2 (2026-11-04 to 2026-11-18, review 2026-11-18); LOG.md carries the renewal entry.
 
 ## 2026-10-28
 

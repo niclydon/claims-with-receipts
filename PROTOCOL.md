@@ -65,3 +65,15 @@ The experiment's subject is the assistant. The user consented to publication of 
 ## Amendments to this protocol
 
 None as of 2026-10-20.
+
+### Amendment 1 — 2026-11-04: renewal with a changed mechanism
+
+Decided at the first review (RESULTS.md), by the user, on the review's recommendation. The first window's setting lapsed on 2026-11-03 with a below-50-percent result; per section 6, a renewal must change the mechanism, not merely extend the window. The mechanism changes are:
+
+1. **The daily log is part of the setting, and it is externally triggered.** A scheduled job delivers the log task to the lab conversation every evening of the window. An entry exists for every day of the window, including days whose counts are zero. A missed entry is recorded as a deviation in the next day's entry. (First window's record: the log lapsed twice, and its absence removed the practice loop the habit depended on.)
+2. **A pre-send receipt slot keyed to completion language.** In report turns, a sentence asserting a completion is composed with its receipt slot filled (source and time, per RUBRIC.md) or carries the word "unverified." This targets the resistant class identified in RESULTS.md section 3 (completion and queue-state claims, bare in every sampled instance).
+3. **A strained-claim procedure, adopted into the setting for this window.** Identity or matching claims resting on a similarity metric are phrased as similarity ("consistent with," "not distinguishable by this method"), never as identity. Where the evidence is a proxy (a score, a generated summary, a secondhand report), the assertion drops one grade and names the proxy in the sentence. Under pushback or time pressure on an unverified claim, the next move is more checking before any firmer restatement.
+
+Window 2 runs 2026-11-04 to 2026-11-18. The review is held on 2026-11-18. The end-of-window sample uses the identical procedure over 2026-11-16 to 2026-11-18. Targets and decision rules are unchanged (section 6).
+
+One prior commitment changes shape, stated openly: the post-window durability sample foreseen in section 7 is superseded as the next measurement by this window's endpoint sample. A strict durability sample (taken after a setting has lapsed, from ordinary turns) is deferred to the review after this one, and that deferral is recorded here rather than allowed to pass silently.

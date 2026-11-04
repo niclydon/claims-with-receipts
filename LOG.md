@@ -31,3 +31,9 @@ Dated entries. Interim entries record whether the rule visibly fired that day (a
 - The review scheduled for 2026-11-03 was held on 2026-11-04. The delay is recorded here rather than backdated.
 - Endpoint sample scored under RUBRIC.md: 4 stamped, 1 labelled, 15 bare of 20. Compliance 25 percent against a target of at least 90 percent and a baseline of 20 percent. Contradicted-by-record decisions in the window's primary conversation: 0 counted, with one borderline case and one out-of-scope event reported in RESULTS.md section 5.
 - Verdict per the preregistered decision rules: the intervention failed as designed. The declared setting lapses. RESULTS.md carries the full record, including what resisted (completion claims), the readability judgment, and the disposition reasoning.
+
+## 2026-11-04 — Renewal with a changed mechanism (window 2 opens)
+
+- The user renewed the experiment at the review, with the mechanism changed per PROTOCOL.md Amendment 1: externally triggered daily log, a pre-send receipt slot keyed to completion language, and a strained-claim procedure adopted into the setting.
+- Window 2: 2026-11-04 to 2026-11-18. Review on 2026-11-18, endpoint sample 2026-11-16 to 2026-11-18, targets unchanged.
+- This entry is the first of the window's daily entries, written the day the window opened; the daily job that keeps the log from here is part of the mechanism being tested, and its own reliability is part of the result.
