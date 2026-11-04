@@ -24,3 +24,10 @@ Dated entries. Interim entries record whether the rule visibly fired that day (a
 - The experiment's preregistered primary measure is unaffected in design: the endpoint sample (report turns from 2026-10-31 to 2026-11-03, scored under RUBRIC.md, with the contradicted-by-record count taken across the full window from the working record) is the result. This log was interim observation only.
 - The deviation and its reason will be stated in RESULTS.md at the review.
 - Daily entries resume from today.
+
+## 2026-11-04 — Review held (one day late); second log lapse recorded
+
+- The daily entries for 2026-10-29 through 2026-11-03 were not kept, despite the 2026-10-28 entry above committing to resume them. This is the second lapse of the same kind. No counts were reconstructed.
+- The review scheduled for 2026-11-03 was held on 2026-11-04. The delay is recorded here rather than backdated.
+- Endpoint sample scored under RUBRIC.md: 4 stamped, 1 labelled, 15 bare of 20. Compliance 25 percent against a target of at least 90 percent and a baseline of 20 percent. Contradicted-by-record decisions in the window's primary conversation: 0 counted, with one borderline case and one out-of-scope event reported in RESULTS.md section 5.
+- Verdict per the preregistered decision rules: the intervention failed as designed. The declared setting lapses. RESULTS.md carries the full record, including what resisted (completion claims), the readability judgment, and the disposition reasoning.
